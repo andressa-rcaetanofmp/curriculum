@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1> HTML com imagem </h1>
-
+</body>
 <p> Aprendendo a colocar uma imagem em um repositório utilizando de uma linguagem de Marcação de Hipertexto. </p>
 <img id="foto-de-gato" src="Rubi.jpeg" alt="Exemplo de imagem">
 </html>
