@@ -7,5 +7,5 @@
 <h1> HTML com imagem </h1>
 
 <p> Aprendendo a colocar uma imagem em um repositório utilizando de uma linguagem de Marcação de Hipertexto. </p>
-<img src="https://via.placeholder.com/300&quot; alt="Imagem de Exemplo" width="300">
+<img id="foto-de-gato" src="Rubi.jpeg" alt="Exemplo de imagem">
 </html>
